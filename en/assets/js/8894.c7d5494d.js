@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterkassa=self.webpackChunkinterkassa||[]).push([[8894],{8894:(s,e,a)=>{a.r(e)}}]);
