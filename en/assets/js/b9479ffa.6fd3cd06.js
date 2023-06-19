@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterkassa=self.webpackChunkinterkassa||[]).push([[419],{6666:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"payment-systems"}')}}]);
